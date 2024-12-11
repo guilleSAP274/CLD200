@@ -11,7 +11,7 @@
     "@sap/cds": "7.2.0",
     "@sap/cds-dk": "7.6.0",
     "@sap/cds-hana": "^2",
-    "@sap/xssec": "^3",
+    "@sap/xssec": "^4",
     "express": "^4",
     "passport": "^0.7.0"
   },
