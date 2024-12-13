@@ -6,7 +6,7 @@ Welcome to this repository for the learning journey "Building side-by-side exten
 ## Requirements
 You can complete each of the exercises using your SAP BTP Free Tier account. In a SAP Classroom training you will use the provided systems by the trainer. In your "Full Stack Cloud Application" dev space of your SAP Business Application Studio, you can easily clone and run this code. All further requirements are exactly described in the learning journey.
 
-## Download and Installation
+## Download and Installation 
 
 To get started with the first exercise, simply run the following commands in your terminal:
 
